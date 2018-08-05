@@ -1,0 +1,45 @@
+.container{
+    background-color: #f9f9f9;
+    height: 100vh;
+}
+div.navAuth a{
+    text-decoration: none;
+}
+div.navAuth button{
+    font-weight: bold;
+    color: white;
+}
+.registerForm , .loginForm{
+    padding: 20px;
+}
+.registerForm legend , .loginForm legend{
+    padding: 5px;
+    font-weight: bold;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+div.auth button{
+    margin: 10px;
+    width: 160px;
+}
+div.auth .formBtn{
+    text-align: right;
+}
+div.auth .PaperAuth{
+    padding: 30px;
+}
+form > div > div[class^="MuiFormControl"]{
+    margin-bottom: 8px;
+}
+.alert-error{
+    background-color: #ffbdbd;
+    text-align: center;
+    padding: 5px;
+    color: #e24236;
+}
+.alert-success{
+    background-color: #bdffc8;
+    text-align: center;
+    padding: 5px;
+    color: #36e258;
+}

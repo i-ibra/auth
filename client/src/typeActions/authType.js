@@ -1,0 +1,6 @@
+export const LOGIN = 'LOGIN';
+export const REGISTER = 'REGISTER';
+export const GET_ERRORS_LOGIN = 'GET_ERRORS_LOGIN';
+export const GET_ERRORS_REGISTER = 'GET_ERRORS_REGISTER';
+export const SET_CURRENT_USER = 'SET_CURRENT_USER';
+export const SUCCESS_REGISTER = 'SUCCESS_REGISTER';
